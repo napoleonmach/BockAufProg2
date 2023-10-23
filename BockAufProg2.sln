@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BockAufProg2", "BockAufProg2.pyproj", "{BA131A3C-D19F-47C7-929F-D1E757CD7BAC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ShortestWay", "..\ShortestWay\ShortestWay.pyproj", "{7CD966E0-44E3-4212-9FA0-78E8C0101292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA131A3C-D19F-47C7-929F-D1E757CD7BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA131A3C-D19F-47C7-929F-D1E757CD7BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD966E0-44E3-4212-9FA0-78E8C0101292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD966E0-44E3-4212-9FA0-78E8C0101292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {496948AF-20A8-4C52-A9D3-366E938FC2BC}
+	EndGlobalSection
+EndGlobal
